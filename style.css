@@ -1,0 +1,24 @@
+.nav-link {
+    color: white;
+    text-align: center;
+}
+.unicef {
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container {
+ position:fixed;
+ top: 0;
+ width: 100%;
+ left: 15em;
+ text-align: center;
+}
